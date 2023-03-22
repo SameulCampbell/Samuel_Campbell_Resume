@@ -16,12 +16,7 @@ BYU-I Student.
 
 ## Education
 
-`2025-2027`
-__Brigham Young University__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.59 Major GPA
@@ -32,8 +27,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Internships
 
 `January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
+__Operator__, Rexburg, ID
 - Worked on novel methods for soil sampling to reduce laboratory measurements
 - Used R and Visual Sample Plan to establish new sampling algorithms
 - Published a journal article in Environmental Quality.
