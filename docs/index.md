@@ -22,57 +22,44 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - 3.59 Major GPA
 
 
-## Related Experience
+## Work Expreince
 
-### Internships
-
-`January 2028 - June 2028`
+`March 2022 - Aug 2022`
 __Operator__, Rexburg, ID
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
 
-### Data Science Lead
+- Dealt with high-stress medical emergencies by coordinating with dispatch and the patients
+- Managed between 100-200 emergency calls a day by effectively following action plans per situation
+- Boosted team morale by giving activity ideas to supervisors resulting in a less stressed workplace
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`Aug 2019 - Feb 2022`
+__Desk Manager / Closing Manager__, Rexburg, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Managed between 5-35 workers by effectively assigning tasks to other team members
+- Received and audited products coming into the store by working with a variety of vendors 
+- Maintained price updates on over 250,000 products by assisting a team to check each product weekly
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`Oct 2020 - Dec 2020`
+__Accounting Intern__, Rexburg, ID
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Worked on multiple projects such as year-end accounts payable, accounts receivable, and fixed assets for the yearly audit
+- Reviewed monthly travel log and enforced travel policy to the department managers
+- Assisted other team members on their projects, such as daily cash receipt projects
 
-### Data Science Consulting Team
+`May 2019 - Sept 2019`
+__Sales Representative__, Aptive Environmental      
 
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Brought in $53,000 in revenue for the company in a four-month period by selling and servicing over 115 accounts    
+- Raised over $250 through customers for the Nothing but Nets Foundation
 
 
-## Service and Work History
+## Volunteer Service
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2022-2022`
+__Volunteer Tax Reviewer__, BYU-I
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2015-2017`
+__Service Missionary__, Wichita, KS
 
 
 
